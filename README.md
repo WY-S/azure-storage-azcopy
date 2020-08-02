@@ -32,6 +32,9 @@ For complete guidance, visit any of these articles on the docs.microsoft.com web
 
 :eight_spoked_asterisk: [Transfer data with AzCopy and blob storage](https://docs.microsoft.com/azure/storage/common/storage-use-azcopy-blobs)
 
+The command of copy in the doc may not be correct. 
+This tutorial video may be a good guideline: https://www.youtube.com/watch?v=ZLPQRJZEo_E
+
 :eight_spoked_asterisk: [Transfer data with AzCopy and file storage](https://docs.microsoft.com/azure/storage/common/storage-use-azcopy-files)
 
 :eight_spoked_asterisk: [Transfer data with AzCopy and Amazon S3 buckets](https://docs.microsoft.com/azure/storage/common/storage-use-azcopy-s3)
